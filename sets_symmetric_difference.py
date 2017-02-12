@@ -1,0 +1,8 @@
+n1 = int(input())
+l1 = input().split()
+n2 = int(input())
+l2 = input().split()
+a = list(map(int,l1))
+b = list(map(int,l2))
+print(a)
+print(b)
